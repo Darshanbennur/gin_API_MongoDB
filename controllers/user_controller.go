@@ -2,7 +2,6 @@ package controllers
 
 import (
 	"net/http"
-
 	"github.com/Darshanbennur/gin_API/models"
 	"github.com/Darshanbennur/gin_API/services"
 	"github.com/gin-gonic/gin"
